@@ -638,6 +638,7 @@ background: linear-gradient(181deg, rgb(25, 194, 232) 0%, rgba(161, 24, 243, 1) 
 
 .suscri:hover{
     background: linear-gradient(90deg, #19c2e8, #a118f3);
+    font-size: 30px;
 }
 
 
